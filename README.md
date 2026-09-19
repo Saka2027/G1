@@ -36,28 +36,3 @@ Herefter kan appen åbnes på:
 Der er oprettet et nyt GitHub-repository til den færdige version af projektet, da det tidligere repository ikke kunne opdateres korrekt. Det gamle repository er derfor slettet.
 
 
-# overblik over mappen
-Innovation-26
-│
-├── .expo/
-│
-├── assets/
-│
-├── Komponenter/
-│   ├── Forside.js
-│   ├── Information.js
-│   └── Opgaveoversigt.js
-│
-├── node_modules/
-│
-├── Style/
-│   └── styles.js
-│
-├── .gitignore
-├── App.js
-├── app.json
-├── index.js
-├── LICENSE
-├── package-lock.json
-├── package.json
-└── README.md
